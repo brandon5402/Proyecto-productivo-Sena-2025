@@ -202,17 +202,17 @@ h2 {
 }
 
 .imagen1 {
-    background-image: url(./imagenes/carrusel/Lamborghini-urus.webp);
+    background-image: url(/static/img/carrusel/Lamborghini-urus.webp);
     position: relative;
 }
 
 .imagen2 {
-    background-image: url(./imagenes/carrusel/mercedez.png);
+    background-image: url(/static/img/carrusel/mercedez.png);
     position: relative;
 }
 
 .imagen3 {
-    background-image: url(./imagenes/carrusel/Porsche\ Taycan\ Turbo\ S\ 2020.jpg);
+    background-image: url(/static/img/carrusel/Porsche\ Taycan\ Turbo\ S\ 2020.jpg);
     position: relative;
 }
 
